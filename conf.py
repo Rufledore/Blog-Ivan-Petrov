@@ -20,7 +20,7 @@ import sphinx_pdj_theme
 #blog_path = 'blog'
 
 # The "title" for the blog, used in active pages.  Default is ``'Blog'``.
-blog_title = u'Blog Blog'
+blog_title = u'Ivan\'s Blog'
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
@@ -92,12 +92,20 @@ blog_authors = {
 # a link to a archive pages generated for each tag, category, and year.
 # In addition, there are authors.html, languages.html, and locations.html
 # sidebars that link to author and location archive pages.
+# html_sidebars = {
+#     '**': [ 'about.html',
+#             'postcard.html', 'navigation.html',
+#             'recentposts.html', 'tagcloud.html',
+#             'categories.html',  'archives.html',
+#             'searchbox.html',
+#             ],
+#     }
+
 html_sidebars = {
     '**': [ 'about.html',
-            'postcard.html', 'navigation.html',
-            'recentposts.html', 'tagcloud.html',
-            'categories.html',  'archives.html',
-            'searchbox.html',
+            'postcard.html',
+            'navigation.html',
+            'categories.html'
             ],
     }
 
@@ -182,7 +190,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Blog'
+project = u'The blog of I'
 copyright = u'2019, Ivan Petrov'
 author = u'Ivan Petrov'
 
@@ -282,16 +290,18 @@ font_color = '#61B4F1'
 bg_color = '#000969'
 
 html_theme_options = {
-    'logo': 'logo.jpg',
-    'base_bg': '#02061F',
-    'body_bg': '#F6F6F6',
+    # 'logo': 'logo.jpg',
+    # 'base_bg': '#02061F',
+    # 'body_bg': '#F6F6F6',
     'sidebar_header': font_color,
     'sidebar_text': font_color,
     'sidebar_link': font_color,
+    'fixed_sidebar': True,
+    # 'base_bg_image': 'logo.jpg',
     # 'github_button': False,
     # 'sidebar_list': '#C00',
     # 'sidebar_hr': '#C00',
-    'sidebar_bg': '#02061F',
+    # 'sidebar_bg': '#02061F',
     # 'narrow_sidebar_fg': '#C00',
     # 'anchor': '#C00',
     # 'footnote_bg': '#C00',
