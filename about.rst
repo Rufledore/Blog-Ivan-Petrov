@@ -1,7 +1,7 @@
 
 .. _about:
 
-About Ivan Petrov
+About me
 ============================
 
 +-------------------------------------------+------------------------------+
@@ -15,37 +15,24 @@ About Ivan Petrov
 
 Education
 ---------
-:2005-2006: Exchange student in the Technical University of Dresden,
-  Germany.
+:2010-2014: Bachelor's Degree in Physics at Sofia University "St. Kliment Ohridski"
 
-:2000-2006: Master's Degree (DiplÃ´me d'IngÃ©nieur) in Computer Science
-  at the National Institute of Applied Sciences (INSA) of Lyon,
-  France.
-
-:2000: BaccalaurÃ©at Scientifique : majors in Maths, Physics, Chemistry
-  and Industrial Technology at LycÃ©e du Val de SaÃ´ne, TrÃ©voux, France.
+:2005-2010: High school for Computer Technologies
 
 
 Technical skills
 ----------------
-:Operating Systems: Unix/Linux, Windows, Symbian
-:Coding: Strong knowledge of C, C++ and Python, good knowledge of
-  Java, javascript, Matlab, Perl, lisp, D, Haskell, php
-:Project Management: Svn, Git, Mercurial, Bazaar, Autotools, trac, CMake
-:DataBase: SQL, MySQL, sqlite, posgres, tokyo cabinet
-:Software: Office tools, Graphic creation, LaTeX
-:Embedded Systems: openembedded, scratchbox, creation of applications
-  for arm systems, Android, Maemo, Java2ME.
+:Operating Systems: Unix/Linux, Windows
+:Coding: Strong knowledge of C++ and LabView
+:Project Management: Git, Mercurial
+.. :DataBase: SQL, MySQL, sqlite, posgres, tokyo cabinet
+:Software: Office tools, Restructured Text, LaTeX
 
 
 Languages
 ---------
-:French: Mother Tongue
-:English: Fluent
-:German: Intermediate (lived one year in Germany)
-:Chinese: Intermediate (lived four years in Taiwan, learned full time
-  6 months in school)
-
+:Bulgarian: Mother Tongue
+:English: Advanced
 
 Experiences
 -----------
@@ -71,8 +58,10 @@ Experiences
   Mathematics, in Beijing. Developing a file parsing library based on
   XML and Xquery to be used in plant growth simulation applications.
 
-:2003 (3 months): Traineeships student at cincom_ in Lyon,
-  France. Porting a c/c++ program from Windows to Linux.
+:Apr 2014 - Dec 2016: Test Engineer at Sensata Technologies Bulgaria Ltd.
+  * My main res ponsibility as a test engineer wa s the thoro ugh product validation process from planning to the final report.
+  * I was also in charge of conducting calibration and functional testing of product prototypes.
+
 
 .. _Toro: http://www.toro-asia.com
 .. _openmoko: http://openmoko.org

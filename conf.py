@@ -288,7 +288,7 @@ html_theme = 'alabaster'
 font_color = '#61B4F1'
 # bg_color = '#0D1017'
 bg_color = '#000969'
-
+# Verdana, Geneva, sans-serif
 html_theme_options = {
     # 'logo': 'logo.jpg',
     # 'base_bg': '#02061F',
@@ -297,6 +297,8 @@ html_theme_options = {
     'sidebar_text': font_color,
     'sidebar_link': font_color,
     'fixed_sidebar': True,
+    'caption_font_family': 'Verdana, Geneva, sans-serif',
+    'font_family': 'Lucida Console, Courier, monospace',
     # 'base_bg_image': 'logo.jpg',
     # 'github_button': False,
     # 'sidebar_list': '#C00',
@@ -319,7 +321,7 @@ html_theme_path = [alabaster.get_path()]
 #html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-#html_short_title = None
+# html_short_title = None
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
