@@ -7,7 +7,7 @@ About me
 +-------------------------------------------+------------------------------+
 |:Address: Sofia, Bulgaria                  |.. image :: _static/id.jpg    |
 |:Tel: +359 (0)883 394 023                  |   :height: 150px             |
-|:Email: contact@ivanpetrov.me              |   :width: 250px              |
+|:Email: contact@ivanpetrov.me              |   :width:  220px             |
 |                                           |   :align: center             |
 |                                           |   :alt: alternate text       |
 +-------------------------------------------+------------------------------+
@@ -23,10 +23,9 @@ Education
 Technical skills
 ----------------
 :Operating Systems: Unix/Linux, Windows
-:Coding: Strong knowledge of C++ and LabView
-:Project Management: Git, Mercurial
-.. :DataBase: SQL, MySQL, sqlite, posgres, tokyo cabinet
-:Software: Office tools, Restructured Text, LaTeX
+:Coding: Strong knowledge of C++ and LabView; Weak knowledge of Python
+:Project Management: Git, GitLab
+:Software: Qt, Visual Studio, Office tools, Vim
 
 
 Languages
@@ -37,65 +36,92 @@ Languages
 Experiences
 -----------
 
-:2010 - 2011: Software engineer - Toro_ - Taipei.  Developing
-  mobile phone applications using Near Field Communication
-  technologies.  Mostly Java2ME and android.
+:Nov 2018 - now:
+  **Role -     Software engineer**
 
-:2008 - 2009: Software engineer - OpenMoko_ - Taipei.  Creating an
-  opensource platform for mobile phone based on linux.
+  **Company -** `Melexis Bulgaria LTD <https://www.melexis.com/en>`_
 
-:2007 - 2008: Software Engineer - ASIAA_ (Academia Sinica Institute of
-  Astronomy and Astrophysics) - Taipei.  Writing software for
-  telescope control (AMiBA_ project).
+  **Location -     Sofia, Bulgaria**
 
-:2006 (5 months): End of study project in the MPIPKS_ (Max Planck
-  Institute for The Physics of Complex Systems). - Dresden, Germany.
-  Writing simulation code for the Resolution of the time dependent
-  SchrÃ¶dinger equation.
+  - The team that I am part of designs and maintains a software for programming, testing and debugging of the company’s products (Integrated circuits).
+  - My main responsibility is designing of desktop software for control and programming of particular products.
+  - I work mainly with C++, Qt5 framework and partially with Python.
 
-:2004 (4 months): Traineeships student - liama_, The joint Sino-French
-  Laboratory in Informatics - Beijing.  Automation and Applied
-  Mathematics, in Beijing. Developing a file parsing library based on
-  XML and Xquery to be used in plant growth simulation applications.
+|
 
-:Apr 2014 - Dec 2016: Test Engineer at Sensata Technologies Bulgaria Ltd.
-  * My main res ponsibility as a test engineer wa s the thoro ugh product validation process from planning to the final report.
-  * I was also in charge of conducting calibration and functional testing of product prototypes.
+:Jan 2017 - Oct 2018:
+
+  **Role -     Software engineer**
+
+  **Company -** `Sensata Technologies Bulgaria LTD <http://sensata.com/>`_
+
+  **Location -     Sofia, Bulgaria**
+
+  -	The team that I was part of designs and maintains the test equipment.
+  -	My main responsibility was designing software for process control, data acquisitioning and data processing.
+  -	I worked mainly with LabView (National Instruments programming tool) and partially with C++.
+
+|
+
+:Apr 2015 - Dec 2016:
+
+  **Role -     Software engineer**
+
+  **Company -** `Sensata Technologies Bulgaria LTD <http://sensata.com/>`_
+
+  **Location -     Sofia, Bulgaria**
+
+  -	My main responsibility as a test engineer was the thorough product validation process – from planning to the final report.
+  -	I was also in charge of conducting calibration and functional testing of product prototypes.
+
+|
+
+:Oct 2014 - Apr 2015:
+
+  **Role -     Line leader (Manufacture)**
+
+  **Company -** `Sensata Technologies Bulgaria LTD <http://sensata.com/>`_
+
+  **Location -     Botevgrad, Bulgaria**
+
+  -	It was my job to plan and organize the manufacturing process in one of the production lines.
+
+|
+
+Professional Interests
+-----------------------
+
+:`C++`_: 2 Years of experience
+:Qt5_: 1 Year of experience
+:LabView_: 2 Years of experience
+:Measurements: More than 5 years of experience
+:Python
+:Machine Learning
 
 
-.. _Toro: http://www.toro-asia.com
-.. _openmoko: http://openmoko.org
-.. _ASIAA: http://www.asiaa.sinica.edu.tw
-.. _AMiBA: http://amiba.asiaa.sinica.edu.tw
-.. _MPIPKS: http://www.mpipks-dresden.mpg.de
-.. _liama: http://liama.ia.ac.cn
-.. _cincom: http://www.cincom.com
+.. _`C++`: http://www.cplusplus.com/
+.. _Qt5: https://www.qt.io/
+.. _LabView: https://www.ni.com/en-rs/shop/labview.html
 
 
-Projects
---------
-  * Member of the development team of stellarium_.
-  * Created a few open source video games for desktop: guisterax_,
-    `helvin space trip`_.
-  * Made a mobile version of stellarium for the nokia N900:
-    `stellarium mobile`_. awarded the first price (25000$) in Nokia
-    `calling all innovators contest`_, category "Best
-    application for the Nokia N900".
-  * Laoshi_: an open source Chinese learning software.
-  * Chatocracy_: meet new friends and talk to them with your webcam.
-  * `Super Medusa`_: video game for symbian phones.
+Learning and Self-Improvement
+--------------------------------
 
-.. _`calling all innovators contest`: http://www.callingallinnovators.com/
-.. _stellarium: http://www.stellarium.org
-.. _`stellarium mobile`: http://stellarium-mobile.org
-.. _laoshi: http://chinese-laoshi.org
-.. _guisterax: http://www.dsource.org/projects/guisterax
-.. _`helvin space trip`: http://sourceforge.net/projects/helvinspacetrip
-.. _chatocracy: http://www.chatocracy.com
-.. _`Super Medusa`: http://www.noctua-software.com/super-medusa
+I have been participating in the following courses in `MIT Open course ware`_:
+
+  - `Differential Equations`_
+  - `Probabilistic Systems Analysis and Applied Probability`_
+  - `Design and Analysis of Algorithms`_
+  - `Principles of Microeconomics`_
+
+
+.. _`MIT Open course ware`: https://ocw.mit.edu/index.htm
+.. _`Differential Equations`: https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm
+.. _`Probabilistic Systems Analysis and Applied Probability`: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm
+.. _`Design and Analysis of Algorithms`: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
+.. _`Principles of Microeconomics`: https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/index.htm
+
 
 Personal
 --------
-:Hobbies: Guitar, Science Fiction, Drawing.
-:Personal blog: http://charlie137.blogspot.com
-:Technical blog: http://charlie137-2.blogspot.com
+:Hobbies: Film Photography, Mathematics, Finance, Physics
