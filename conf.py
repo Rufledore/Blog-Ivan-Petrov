@@ -190,7 +190,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'The blog of I'
+project = u'My Blog'
 copyright = u'2019, Ivan Petrov'
 author = u'Ivan Petrov'
 
