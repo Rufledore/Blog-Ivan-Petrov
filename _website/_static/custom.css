@@ -1,0 +1,74 @@
+body {
+    background-image: url("logo.jpg");
+    background-position: center;
+    background-attachment: scroll;
+    /* font-family: "Lucida Console", Monaco, monospace; */
+}
+
+/* Blank space above the lines */
+dt {
+    margin-top: 5px;
+}
+
+dd {
+    margin-top: 0px;
+}
+
+
+/* ------Format RST sections not as tables, but as lists */
+dl.field-list > dt {
+    flex-basis: 100%;
+}
+
+dl.field-list > dt:after {
+    content: ":";
+}
+
+dl.field-list > dd {
+    flex-basis: 100%;
+}
+
+/*-----------------------------------------*/
+
+div.body {
+  background-color: rgba(255, 255, 255, 0.78);
+  min-width: 200px; /*This makes body small enough for mobile phone screen*/
+  max-width: 800px;
+}
+
+div.sphinxsidebar {
+  background-color: rgba(2, 6, 31, 0.85);
+}
+
+div.sphinxsidebar ul li {
+  font-size: 16px;
+}
+
+div.footer {
+  color: #FFF;
+}
+
+div.footer a {
+  color: #FFF;
+}
+
+/*This makes the picture in About scalable*/
+#about-me img {
+  height: auto !important;
+}
+
+/*Mobile phones and tablet appearence*/
+@media screen and (max-width: 875px) {
+  div.body {
+      min-height: 0;
+      padding: 0 10px 0 10px;
+      background-color: rgba(255, 255, 255, 0.78);
+  }
+}
+@media screen and (max-width: 875px) {
+  div.documentwrapper {
+      background: transparent;
+  }
+}
+    /* background-color: transparent;
+/*ul li.toctree-l1 >  */

@@ -1,0 +1,11 @@
+Remove Navigation and Recent Posts.
+
+Should be:
+
+About
+
+Categories(Tags)
+    C++
+    Mathematics
+    News
+    etc.
