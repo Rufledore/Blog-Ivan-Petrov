@@ -1,11 +1,13 @@
-Remove Navigation and Recent Posts.
+DONE {
+ Remove Navigation and Recent Possts.
 
-Should be:
+ Should be:
 
-About
+ About
 
-Categories(Tags)
+ Categories(Tags)
     C++
     Mathematics
     News
     etc.
+}

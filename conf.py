@@ -105,7 +105,8 @@ html_sidebars = {
     '**': [ 'about.html',
             'postcard.html',
             'navigation.html',
-            'categories.html'
+            'categories.html',
+            'tagcloud.html'
             ],
     }
 
@@ -293,6 +294,7 @@ html_theme_options = {
     # 'logo': 'logo.jpg',
     # 'base_bg': '#02061F',
     # 'body_bg': '#F6F6F6',
+    'body_text': font_color,
     'sidebar_header': font_color,
     'sidebar_text': font_color,
     'sidebar_link': font_color,
