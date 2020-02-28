@@ -6,7 +6,6 @@ body {
     font-family: Lucida Console, Courier, monospace;
     font-size: 17px;
     background-color: #fff;
-    background-image: url( );
     color: #000;
     margin: 0;
     padding: 0;
@@ -31,7 +30,6 @@ div.sphinxsidebar {
     width: 220px;
     font-size: 14px;
     line-height: 1.5;
-    background-color: #fff;
 }
 
 hr {

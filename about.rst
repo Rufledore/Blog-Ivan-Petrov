@@ -16,17 +16,18 @@ About me
 
 Education
 ---------
-:2010-2014: Bachelor's Degree in Physics at Sofia University St. Kliment Ohridski
+:2010-2014: Bachelor's Degree in Physics at Sofia University St. Kliment Ohridski: Sofia city, Bulgaria
 
-:2005-2010: High school for Computer Technologies in Pravets town
+:2005-2010: High school for Computer Technologies: Pravets town, Bulgaria
 
 
 Technical skills
 ----------------
 :Operating Systems: Unix/Linux, Windows
-:Coding: Strong knowledge of C++ and LabView; Basic knowledge of Python
-:Project Management: Git, GitLab
-:Software: Qt, Visual Studio, Office tools, Vim
+:Coding: Strong knowledge of `C++`_ and LabView_; Python_
+:Software development: Git, GitLab_, `GitLab CI`_, Docker_
+:Frameworks: Qt5_, Robotframework_
+:IDEs and text editors: Qt5_, Visual Studio, PyCharm, Vim, Atom
 
 
 Languages
@@ -45,8 +46,8 @@ Experience
   **Location -     Sofia, Bulgaria**
 
   - The team that I am part of designs and maintains a software for programming, testing and debugging of the company’s products (Integrated circuits).
-  - My main responsibility is designing desktop software for control and programming of particular products.
-  - I work mainly with C++, Qt5 framework and partially with Python.
+  - My main responsibility is designing, manufacture and deployment of cross-platform desktop software for control and programming of the products.
+  - I work mainly with C++, Qt5 framework and Python.
 
 |
 
@@ -96,13 +97,18 @@ Professional Interests
 :Qt5_: 1 Year of experience
 :LabView_: 2 Years of experience
 :Measurements: More than 5 years of experience
-:Python: No professional experience
+:Python_: No professional experience
 :Machine Learning: No professional experience
 
 
-.. _`C++`: http://www.cplusplus.com/
+.. _`C++`: http://www.cplusplus.com/info/description/
 .. _Qt5: https://www.qt.io/
 .. _LabView: https://www.ni.com/en-rs/shop/labview.html
+.. _Robotframework: https://robotframework.org/
+.. _Python: https://www.python.org/
+.. _Docker: https://www.docker.com/get-started
+.. _GitLab: https://about.gitlab.com/
+.. _`GitLab CI`: https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/
 
 
 Learning and Self-Improvement
