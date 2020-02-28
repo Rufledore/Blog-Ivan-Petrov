@@ -11,3 +11,7 @@ DONE {
     News
     etc.
 }
+
+{
+    Leave a blank space in the beginning and in the end of the pages.
+}

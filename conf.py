@@ -24,7 +24,8 @@ blog_title = u'Ivan\'s Blog'
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
-blog_baseurl = u'True'
+# blog_baseurl = u'True'
+blog_baseurl = u'http://ivanpetrov.me/'
 
 # Choose to archive only post titles. Archiving only titles can speed
 # up project building.
@@ -125,7 +126,7 @@ html_sidebars = {
 #blog_feed_subtitle = None
 
 # Choose to feed only post titles, default is ``False``.
-#blog_feed_titles = False
+# blog_feed_titles = False
 
 # Specify number of recent posts to include in feeds, default is ``None``
 # for all posts.
@@ -153,7 +154,7 @@ fontawesome_link_cdn = True
 
 # You can enable Disqus_ by setting ``disqus_shortname`` variable.
 # Disqus_ short name for the blog.
-#disqus_shortname = None
+disqus_shortname = 'ivanpetrov-me'
 
 # Choose to disqus pages that are not posts, default is ``False``.
 #disqus_pages = False
@@ -362,7 +363,7 @@ html_static_path = ['_static']
 #html_domain_indices = True
 
 # If false, no index is generated.
-#html_use_index = True
+# html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
 #html_split_index = False
