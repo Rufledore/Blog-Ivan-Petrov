@@ -14,7 +14,7 @@ About me
 +---------------------------+--------------------------------------------------+
 
 
-Technical skills
+Technical Skills
 ----------------
 :Operating Systems: Unix/Linux, Windows
 :Coding: Strong knowledge of `C++`_ and LabView_; Python_
@@ -24,7 +24,7 @@ Technical skills
 
 
 
-Years of experience
+Years of Experience
 --------------------
 
 :`C++`_: 2 Years

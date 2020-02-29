@@ -35,7 +35,7 @@ Years of Experience
 :Machine Learning: Less than 1 Year
 
 
-Positional Timeline
+Professional Timeline
 ---------------------
 
 :Nov 2018 - now:
