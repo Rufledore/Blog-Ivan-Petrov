@@ -14,7 +14,7 @@ About me
 +---------------------------+--------------------------------------------------+
 
 
-Technical skills
+Technical Skills
 ----------------
 :Operating Systems: Unix/Linux, Windows
 :Coding: Strong knowledge of `C++`_ and LabView_; Python_
@@ -23,11 +23,9 @@ Technical skills
 :IDEs and text editors: Qt5_, Visual Studio, PyCharm, Vim, Atom
 
 
-Experience
------------
 
-General
-~~~~~~~
+Years of Experience
+--------------------
 
 :`C++`_: 2 Years
 :Qt5_: 1 Year
@@ -38,7 +36,7 @@ General
 
 
 Positional Timeline
-~~~~~~~~~~~~~~~~~~~
+---------------------
 
 :Nov 2018 - now:
   **Role -     Software engineer**
