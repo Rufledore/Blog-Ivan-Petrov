@@ -14,13 +14,6 @@ About me
 +---------------------------+--------------------------------------------------+
 
 
-Education
----------
-:2010-2014: Bachelor's Degree in Physics at Sofia University St. Kliment Ohridski: Sofia city, Bulgaria
-
-:2005-2010: High school for Computer Technologies: Pravets town, Bulgaria
-
-
 Technical skills
 ----------------
 :Operating Systems: Unix/Linux, Windows
@@ -30,13 +23,22 @@ Technical skills
 :IDEs and text editors: Qt5_, Visual Studio, PyCharm, Vim, Atom
 
 
-Languages
----------
-:Bulgarian: Mother Tongue
-:English: Advanced
-
 Experience
-----------
+-----------
+
+General
+~~~~~~~
+
+:`C++`_: 2 Years
+:Qt5_: 1 Year
+:LabView_: 2 Years
+:Measurements and statistics: More than 5 Years
+:Python_: 1 Year
+:Machine Learning: Less than 1 Year
+
+
+Positional Timeline
+~~~~~~~~~~~~~~~~~~~
 
 :Nov 2018 - now:
   **Role -     Software engineer**
@@ -90,25 +92,18 @@ Experience
 
 |
 
-Professional Interests
------------------------
 
-:`C++`_: 2 Years of experience
-:Qt5_: 1 Year of experience
-:LabView_: 2 Years of experience
-:Measurements: More than 5 years of experience
-:Python_: No professional experience
-:Machine Learning: No professional experience
+Education
+---------
+:2010-2014: Bachelor's Degree in Physics at Sofia University St. Kliment Ohridski: Sofia city, Bulgaria
+
+:2005-2010: High school for Computer Technologies: Pravets town, Bulgaria
 
 
-.. _`C++`: http://www.cplusplus.com/info/description/
-.. _Qt5: https://www.qt.io/
-.. _LabView: https://www.ni.com/en-rs/shop/labview.html
-.. _Robotframework: https://robotframework.org/
-.. _Python: https://www.python.org/
-.. _Docker: https://www.docker.com/get-started
-.. _GitLab: https://about.gitlab.com/
-.. _`GitLab CI`: https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/
+Languages
+---------
+:Bulgarian: Mother Tongue
+:English: Advanced
 
 
 Learning and Self-Improvement
@@ -122,6 +117,14 @@ I am taking the following courses in `MIT Open course ware`_:
   - `Principles of Microeconomics`_
 
 
+.. _`C++`: http://www.cplusplus.com/info/description/
+.. _Qt5: https://www.qt.io/
+.. _LabView: https://www.ni.com/en-rs/shop/labview.html
+.. _Robotframework: https://robotframework.org/
+.. _Python: https://www.python.org/
+.. _Docker: https://www.docker.com/get-started
+.. _GitLab: https://about.gitlab.com/
+.. _`GitLab CI`: https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/
 .. _`MIT Open course ware`: https://ocw.mit.edu/index.htm
 .. _`Differential Equations`: https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm
 .. _`Probabilistic Systems Analysis and Applied Probability`: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm
