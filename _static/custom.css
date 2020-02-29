@@ -1,7 +1,11 @@
 body {
+    /* This section format the backgroun picture */
     background-image: url("logo.jpg");
+    background-size: cover;
     background-position: center;
-    background-attachment: scroll;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
     color: #61B4F1;
     /* font-family: "Lucida Console", Monaco, monospace; */
 }
@@ -32,50 +36,60 @@ dl.field-list > dd {
 /*-----------------------------------------*/
 
 div.body {
-  background-color: rgba(255, 255, 255, 0.78);
-  min-width: 200px; /*This makes body small enough for mobile phone screen*/
-  max-width: 800px;
-  padding: 20px 30px 20px 30px;
+    background-color: rgba(255, 255, 255, 0.78);
+    min-width: 200px; /*This makes body small enough for mobile phone screen*/
+    max-width: 800px;
+    padding: 20px 30px 20px 30px;
 }
 
 div.body > .section {
-  text-align: justify;
-  justify-content: space-around;
+    text-align: justify;
+    justify-content: space-around;
 }
 
 div.sphinxsidebar {
-  background-color: rgba(2, 6, 31, 0.85);
+    background-color: rgba(2, 6, 31, 0.85);
+    color: #61B4F1;
 }
 
 div.sphinxsidebar ul li {
-  font-size: 16px;
+    font-size: 16px;
 }
 
 div.footer {
-  color: #FFF;
+    color: #FFF;
 }
 
 div.footer a {
-  color: #FFF;
+    color: #FFF;
 }
 
 /*This makes the picture in About scalable*/
 #about-me img {
-  height: auto !important;
+    height: auto !important;
 }
 
 /*Mobile phones and tablet appearence*/
 @media screen and (max-width: 875px) {
-  div.body {
-      min-height: 0;
-      padding: 0 10px 0 10px;
-      background-color: rgba(255, 255, 255, 0.78);
-  }
+    div.body {
+        min-height: 0;
+        padding: 5px 10px 5px 10px;
+        background-color: rgba(255, 255, 255, 0.78);
+    }
 }
 @media screen and (max-width: 875px) {
-  div.documentwrapper {
-      background: transparent;
-  }
+    div.documentwrapper {
+        background: transparent;
+    }
 }
-    /* background-color: transparent;
-/*ul li.toctree-l1 >  */
+
+@media screen and (max-width: 875px) {
+    div.sphinxsidebar {
+        background-color: rgba(2, 6, 31, 0.85);
+        color: #61B4F1;
+    }
+    /* Setting narrow sidebar text color */
+    div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p, div.sphinxsidebar a {
+        color: #61B4F1 !important;
+    }
+}

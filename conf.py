@@ -45,9 +45,9 @@ blog_authors = {
 # links of these languages. Similar to :confval:`blog_authors`, dictionary
 # keys should be used in ``post`` directive to refer to the locations.
 # Default is ``{}``.
-#blog_languages = {
+# blog_languages = {
 #    'en': ('English', None),
-#}
+# }
 
 
 # A dictionary of location names mapping to full display names and
@@ -193,7 +193,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'My Blog'
-copyright = u'2019, Ivan Petrov'
+copyright = u'2020, Ivan Petrov'
 author = u'Ivan Petrov'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -295,16 +295,21 @@ html_theme_options = {
     # 'logo': 'logo.jpg',
     # 'base_bg': '#02061F',
     # 'body_bg': '#F6F6F6',
-    'body_text': font_color,
+    # 'body_text': font_color,
     'sidebar_header': font_color,
     'sidebar_text': font_color,
     'sidebar_link': font_color,
+    # 'sidebar_link_underscore': True,
     'fixed_sidebar': True,
     'caption_font_family': 'Verdana, Geneva, sans-serif',
     'font_family': 'Lucida Console, Courier, monospace',
+    # 'narrow_sidebar_text': font_color,
+    # 'narrow_sidebar_link': font_color,
+    # 'narrow_sidebar_header': font_color,
+    # 'narrow_sidebar_fg': font_color,
     # 'base_bg_image': 'logo.jpg',
     # 'github_button': False,
-    # 'sidebar_list': '#C00',
+    'sidebar_list': font_color,
     # 'sidebar_hr': '#C00',
     # 'sidebar_bg': '#02061F',
     # 'narrow_sidebar_fg': '#C00',

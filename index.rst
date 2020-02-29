@@ -13,6 +13,7 @@ Here is a list of most recent posts:
 
 .. postlist:: 5
    :excerpts:
+   :language: en
 
 
 .. `toctree` directive, below, contains list of non-post `.rst` files.
