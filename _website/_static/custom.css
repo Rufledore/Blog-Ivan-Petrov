@@ -35,7 +35,17 @@ div.body {
   background-color: rgba(255, 255, 255, 0.78);
   min-width: 200px; /*This makes body small enough for mobile phone screen*/
   max-width: 800px;
+  padding: 20px 30px 20px 30px;
 }
+
+div.body > .section {
+  text-align: justify;
+  justify-content: space-around;
+}
+/* div.section {
+  text-align: justify;
+  justify-content: space-around;
+} */
 
 div.sphinxsidebar {
   background-color: rgba(2, 6, 31, 0.85);
